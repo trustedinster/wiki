@@ -1,0 +1,4 @@
+deploy:
+  - type: git
+    remote: <remote repo name, default is 'origin'>
+    branch: <branch, default is 'gh-pages'>
